@@ -1,0 +1,6 @@
+diff a/Type-Distillation/distiller_zoo/PKT.py b/Type-Distillation/distiller_zoo/PKT.py	(rejected hunks)
+@@ -0,3 +1,4 @@
++from __future__ import print_function
+ 
+ import torch
+ import torch.nn as nn
